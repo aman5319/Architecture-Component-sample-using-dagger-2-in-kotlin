@@ -1,4 +1,4 @@
-This projects shows how to use Android architecture component with Dagger2 using Repository pattern in kotlin
+This projects shows how to use Android architecture component with Dagger2 using Repository pattern in kotlin it also uses Rxjava as an alternative to LiveData
 
 
 Architecture Component used
